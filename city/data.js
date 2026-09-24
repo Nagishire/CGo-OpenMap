@@ -230,6 +230,26 @@
             maintainers: [],
             isDefault: false
         },
+         "tianjin": {
+            id: "tianjin",
+            name: "天津",
+            themeColor: "#ED1C24", // 天津地铁官方标识色
+            svglogo: null, // 已接入 CGoUI 内置 dalian 官方矢量图标
+            folder: "./city/tianjin",
+            mainLogic: "./city/tianjin/tianjin.js",
+            center: { x: 610, y: 765 },
+            defaultScale: 1.0,
+            mapSize: { width: 1700, height: 1400 },
+            searchCity: "天津",
+            title: "CGo OpenMap - 天津地铁线网图",
+            keywords: "CGo OpenMap, 天津地铁, 线路图, 轨道交通",
+            description: "包含天津轨道交通1-11号线，滨海新区线路和",
+            officialMapUrl: "https://www.tjgdjt.com/contents/19/837.html",
+            maintainers: [
+                { name: "ナギ郡", role: "城市主理人", github: "https://github.com/Nagishire" },
+            ],
+            isDefault: false
+        },
     };
 
     // ==========================================================================
