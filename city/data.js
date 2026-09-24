@@ -243,7 +243,7 @@
             searchCity: "天津",
             title: "CGo OpenMap - 天津地铁线网图",
             keywords: "CGo OpenMap, 天津地铁, 线路图, 轨道交通",
-            description: "包含天津轨道交通1-11号线，滨海新区线路和",
+            description: "包含天津轨道交通1-11号线，滨海新区线路和在建线路正在完善中。",
             officialMapUrl: "https://www.tjgdjt.com/contents/19/837.html",
             maintainers: [
                 { name: "ナギ郡", role: "城市主理人", github: "https://github.com/Nagishire" },
